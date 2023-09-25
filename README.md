@@ -1,7 +1,6 @@
 # Tetris-React
 This project is a Tetris game built using React JS and Styled Components <br>
 It utilises hooks like useState, useEffect, useCallback as well as some custom hooks and is styled using Styled Components.<br>
-The following tutorial made it easy to comprehend their usage and provided step-wise guidance in completing the project: https://youtu.be/ZGOaCxX8HIU
 
 
 ## Demo:
